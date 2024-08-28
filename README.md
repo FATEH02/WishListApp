@@ -4,6 +4,13 @@
 
 The My Wish List App is a simple Android application that allows users to manage their wish list items. It is built using Jetpack Compose and integrates with Room for local database management. The application features a basic UI for adding, editing, and deleting wishes, and utilizes modern Android development practices.
 
+
+<img width="300" src="https://github.com/FATEH02/WishListApp/blob/main/Screenshot_20240828_174907_MyWishListApp.jpg">
+<img width="300" src="https://github.com/FATEH02/WishListApp/blob/main/Screenshot_20240828_174929_MyWishListApp.jpg">
+<img width="300" src="https://github.com/FATEH02/WishListApp/blob/main/Screenshot_20240828_174951_MyWishListApp.jpg">
+<img width="300" src="https://github.com/FATEH02/WishListApp/blob/main/Screenshot_20240828_175000_MyWishListApp.jpg">
+
+
 ## Features
 
 - **Home Screen**: Displays a list of all wishes with the ability to swipe to delete.
